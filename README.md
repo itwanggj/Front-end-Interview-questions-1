@@ -1,23 +1,22 @@
 
 # HTML
 1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%231.md)
-1. 严格模式与混杂模式如何区分？它们有何意义?
-2. HTML5 为什么只需要写 <!DOCTYPE HTML>？
-3. 行内元素有哪些？块级元素有哪些？ 空(void)元素有那些？
-4. 页面导入样式时，使用link和@import有什么区别？
-5. 介绍一下你对浏览器内核的理解？
-6. 常见的浏览器内核有哪些？
-7. html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？
-8. 如何区分 HTML 和 HTML5？简述一下你对HTML语义化的理解？
-9. HTML5的离线储存怎么使用，工作原理能不能解释一下？
-10. 浏览器是怎么对HTML5的离线储存资源进行管理和加载的呢？
-11. 请描述一下 cookies，sessionStorage 和 localStorage 的区别？
-12. iframe有那些缺点？
-13. Label的作用是什么？是怎么用的？（加 for 或 包裹）
-14. HTML5的form如何关闭自动完成功能？
-15. 如何实现浏览器内多个标签页之间的通信? (阿里)
-16. webSocket如何兼容低浏览器？(阿里)
-17. 页面可见性（Page Visibility）API 可以有哪些用途？
+2. [严格模式与混杂模式如何区分？它们有何意义?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%232.md)
+3. [HTML5 为什么只需要写 <!DOCTYPE HTML>？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%233.md)
+4. [行内元素有哪些？块级元素有哪些？ 空(void)元素有那些？置换元素和非置换元素有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%234.md)
+5. [页面导入样式时，使用link和@import有什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%235.md)
+6. [介绍一下你对浏览器内核的理解？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%236.md)
+7. [常见的浏览器内核有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%237.md)
+8. [html5有哪些新特性、移除了那些元素？如何处理HTML5新标签的浏览器兼容问题？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%238.md)
+9. [如何区分 HTML 和 HTML5？简述一下你对HTML语义化的理解？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%239.md)
+10. [HTML5的离线储存怎么使用，工作原理能不能解释一下？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2310.md)
+11. [浏览器是怎么对HTML5的离线储存资源进行管理和加载的呢？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2311.md)
+12. [请描述一下 cookies，sessionStorage 和 localStorage 的区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2312.md)
+13. [iframe有那些缺点？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2313.md)
+14. [Label的作用是什么？是怎么用的？（加 for 或 包裹）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2314.md)
+15. [HTML5的form如何关闭自动完成功能？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2315.md)
+16. [如何实现浏览器内多个标签页之间的通信? (阿里)](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2316.md)
+17. [页面可见性（Page Visibility）API 可以有哪些用途？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%2317.md)
 18. 如何在页面上实现一个圆形的可点击区域？
 19. 实现不使用 border 画出1px高的线，在不同浏览器的Quirksmode和CSSCompat模式下都能保持同一效果。
 20. 网页验证码是干嘛的，是为了解决什么安全问题？
@@ -25,6 +24,8 @@
 22. 优雅降级和渐进增强
 23. WEB应用从服务器主动推送Data到客户端有那些方式？
 24. 对Node的优点和缺点提出了自己的看法？
+25. webSocket如何兼容低浏览器？(阿里)
+
 
 # CSS
 1. [介绍一下标准的CSS的盒子模型？与低版本IE的盒子模型有什么不同的？]()
