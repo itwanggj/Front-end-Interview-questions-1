@@ -2,7 +2,7 @@
 # HTML
 1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%231.md)
 2. [严格模式与混杂模式如何区分？它们有何意义?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%232.md)
-3. [HTML5 为什么只需要写 <!DOCTYPE HTML>？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%233.md)
+3. [HTML5 为什么只需要写 &lt;!DOCTYPE HTML>？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%233.md)
 4. [行内元素有哪些？块级元素有哪些？ 空(void)元素有那些？置换元素和非置换元素有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%234.md)
 5. [页面导入样式时，使用link和@import有什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%235.md)
 6. [介绍一下你对浏览器内核的理解？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%236.md)
