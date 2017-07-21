@@ -1,6 +1,6 @@
 
 # HTML
-1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/#1.md)
+1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%231.md)
 1. 严格模式与混杂模式如何区分？它们有何意义?
 2. HTML5 为什么只需要写 <!DOCTYPE HTML>？
 3. 行内元素有哪些？块级元素有哪些？ 空(void)元素有那些？
