@@ -29,54 +29,52 @@
 
 
 # CSS
-1. [介绍一下标准的CSS的盒子模型？与低版本IE的盒子模型有什么不同的？]()
-2. CSS选择符有哪些？哪些属性可以继承？
-3. CSS优先级算法如何计算？
-4. CSS3新增伪类有那些？
-5. 如何居中div？如何居中一个浮动元素？如何让绝对定位的div居中？
-6. display有哪些值？说明他们的作用。
-7. position的值relative和absolute定位原点是？
-8. CSS3有哪些新特性？请解释一下CSS3的Flexbox（弹性盒布局模型）,以及适用场景？
-9. 用纯CSS创建一个三角形的原理是什么？
-10. 一个满屏 品 字布局 如何设计?
-11. 常见兼容性问题？
-12. li与li之间有看不见的空白间隔是什么原因引起的？
-13. 有什么解决办法？
-14. 经常遇到的浏览器的兼容性有哪些？原因，解决方法是什么，常用hack的技巧 ？
-15. 为什么要初始化CSS样式。
-16. absolute的containing block计算方式跟正常流有什么不同？
-17. CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？
-18. position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？
-19. 对BFC规范(块级格式化上下文：block formatting context)的理解？
-20. CSS权重优先级是如何计算的？
-21. 请解释一下为什么会出现浮动和什么时候需要清除浮动？
-22. 清除浮动的方式移动端的布局用过媒体查询吗？
-23. 使用 CSS 预处理器吗？喜欢那个？
-24. CSS优化、提高性能的方法有哪些？
-25. 浏览器是怎样解析CSS选择器的？
-26. 在网页中的应该使用奇数还是偶数的字体？为什么呢？
-27. margin和padding分别适合什么场景使用？
-28. 抽离样式模块怎么写，说出思路，有无实践经验？
-29. 元素竖向的百分比设定是相对于容器的高度吗？
-30. 全屏滚动的原理是什么？用到了CSS的那些属性？
-31. 什么是响应式设计？响应式设计的基本原理是什么？如何兼容低版本的IE？
-32. 视差滚动效果，如何给每页做不同的动画？（回到顶部，向下滑动要再次出现，和只出现一次分别怎么做？）
-33. ::before 和 :after中双冒号和单冒号 有什么区别？解释一下这2个伪元素的作用。
-34. 如何修改chrome记住密码后自动填充表单的黄色背景 ？
-35. 你对line-height是如何理解的？
-36. 设置元素浮动后，该元素的display值是多少？（自动变成display:block）
-37. 怎么让Chrome支持小于12px 的文字？
-38. 让页面里的字体变清晰，变细用CSS怎么做？（-webkit-font-smoothing: antialiased;）
-39. font-style属性可以让它赋值为“oblique” oblique是什么意思？
-40. position:fixed;在android下无效怎么处理？
-41. 如果需要手动写动画，你认为最小时间间隔是多久，为什么？（阿里）
-42. display:inline-block 什么时候会显示间隙？(携程)
-43. overflow: scroll时不能平滑滚动的问题怎么处理？
-44. 有一个高度自适应的div，里面有两个div，一个高度100px，希望另一个填满剩下的高度。
-45. png、jpg、gif 这些图片格式解释一下，分别什么时候用。
-46. 有没有了解过webp？
-47. 什么是Cookie 隔离？（或者说：请求资源的时候不要让它带cookie怎么做）
-48. style标签写在body后与body前有什么区别？
+1. [介绍一下标准的CSS的盒子模型？与低版本IE的盒子模型有什么不同的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%231.md)
+2. [CSS选择符有哪些?哪些属性可以继承?优先级算法如何计算?内联和important哪个优先级高?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%232.md)
+3. [CSS3新增伪类有那些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%233.md)
+4. [如何居中div？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%234.md)
+5. [display有哪些值？说明他们的作用。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%235.md)
+6. [position的定位？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%236.md)
+7. CSS3有哪些新特性？请解释一下CSS3的Flexbox（弹性盒布局模型）,以及适用场景？
+8. [用纯CSS创建一个三角形的原理是什么？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%238.md)
+9. [一个满屏 品 字布局 如何设计?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%239.md)
+10. [li与li之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2310.md)
+11. [什么是Cookie 隔离？（或者说：请求资源的时候不要让它带cookie怎么做）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2311.md)
+12. 经常遇到的浏览器的兼容性有哪些？原因，解决方法是什么，常用hzck的技巧 ？
+13. [为什么要初始化CSS样式。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2313.md)
+14. [absolute的containing block计算方式跟正常流有什么不同？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2314.md)
+15. [ CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2315.md)
+16. [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2316.md)
+17. 对BFC规范(块级格式化上下文：block formatting context)的理解？
+18. [有没有了解过webp？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2318.md)
+19. [style标签写在body后与body前有什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2319.md)
+20. [请解释一下为什么会出现浮动和什么时候需要清除浮动？清除浮动的方式](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2320.md)
+21. [移动端的布局用过媒体查询吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2321.md)
+22. [为什么要使用 CSS 预处理器吗？喜欢那个？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2322.md)
+23. [CSS优化、提高性能的方法有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2323.md)
+24. 浏览器是怎样解析CSS选择器的？
+25. 在网页中的应该使用奇数还是偶数的字体？为什么呢？
+26. margin和padding分别适合什么场景使用？
+27. 抽离样式模块怎么写，说出思路，有无实践经验？
+28. 元素竖向的百分比设定是相对于容器的高度吗？
+39. 全屏滚动的原理是什么？用到了CSS的那些属性？
+30. 什么是响应式设计？响应式设计的基本原理是什么？如何兼容低版本的IE？
+31. 视差滚动效果，如何给每页做不同的动画？（回到顶部，向下滑动要再次出现，和只出现一次分别怎么做？）
+32. ::before 和 :after中双冒号和单冒号 有什么区别？解释一下这2个伪元素的作用。
+33. 如何修改chrome记住密码后自动填充表单的黄色背景 ？
+34. 你对line-height是如何理解的？
+35. 设置元素浮动后，该元素的display值是多少？（自动变成display:block）
+36. 怎么让Chrome支持小于12px 的文字？
+37. 让页面里的字体变清晰，变细用CSS怎么做？（-webkit-font-smoothing: antialiased;）
+38. font-style属性可以让它赋值为“oblique” oblique是什么意思？
+39. position:fixed;在android下无效怎么处理？
+40. 如果需要手动写动画，你认为最小时间间隔是多久，为什么？（阿里）
+41. display:inline-block 什么时候会显示间隙？(携程)
+42. overflow: scroll时不能平滑滚动的问题怎么处理？
+43. 有一个高度自适应的div，里面有两个div，一个高度100px，希望另一个填满剩下的高度。
+44. png、jpg、gif 这些图片格式解释一下，分别什么时候用。
+
+
 
 # JavaScript
 1. 介绍JavaScript的基本数据类型。
