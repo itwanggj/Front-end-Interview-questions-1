@@ -1,4 +1,4 @@
-
+www
 # HTML
 1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%231.md)
 2. [严格模式与混杂模式如何区分？它们有何意义?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%232.md)
@@ -35,7 +35,7 @@
 4. [如何居中div？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%234.md)
 5. [display有哪些值？说明他们的作用。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%235.md)
 6. [position的定位？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%236.md)
-7. CSS3有哪些新特性？请解释一下CSS3的Flexbox（弹性盒布局模型）,以及适用场景？
+7. [CSS3有哪些新特性？请解释一下CSS3的Flexbox（弹性盒布局模型）,以及适用场景？]()
 8. [用纯CSS创建一个三角形的原理是什么？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%238.md)
 9. [一个满屏 品 字布局 如何设计?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%239.md)
 10. [li与li之间有看不见的空白间隔是什么原因引起的？有什么解决办法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2310.md)
@@ -45,66 +45,68 @@
 14. [absolute的containing block计算方式跟正常流有什么不同？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2314.md)
 15. [ CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2315.md)
 16. [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2316.md)
-17. 对BFC规范(块级格式化上下文：block formatting context)的理解？
+17. [对BFC规范(块级格式化上下文：block formatting context)的理解？]()
 18. [有没有了解过webp？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2318.md)
 19. [style标签写在body后与body前有什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2319.md)
 20. [请解释一下为什么会出现浮动和什么时候需要清除浮动？清除浮动的方式](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2320.md)
 21. [移动端的布局用过媒体查询吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2321.md)
 22. [为什么要使用 CSS 预处理器吗？喜欢那个？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2322.md)
 23. [CSS优化、提高性能的方法有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2323.md)
-24. 浏览器是怎样解析CSS选择器的？
-25. 在网页中的应该使用奇数还是偶数的字体？为什么呢？
-26. margin和padding分别适合什么场景使用？
+24. [浏览器是怎样解析CSS选择器的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2324.md)
+25. [在网页中的应该使用奇数还是偶数的字体？为什么呢？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2325.md)
+26. [margin和padding分别适合什么场景使用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2326.md)
 27. 抽离样式模块怎么写，说出思路，有无实践经验？
-28. 元素竖向的百分比设定是相对于容器的高度吗？
-39. 全屏滚动的原理是什么？用到了CSS的那些属性？
-30. 什么是响应式设计？响应式设计的基本原理是什么？如何兼容低版本的IE？
-31. 视差滚动效果，如何给每页做不同的动画？（回到顶部，向下滑动要再次出现，和只出现一次分别怎么做？）
-32. ::before 和 :after中双冒号和单冒号 有什么区别？解释一下这2个伪元素的作用。
-33. 如何修改chrome记住密码后自动填充表单的黄色背景 ？
-34. 你对line-height是如何理解的？
-35. 设置元素浮动后，该元素的display值是多少？（自动变成display:block）
-36. 怎么让Chrome支持小于12px 的文字？
-37. 让页面里的字体变清晰，变细用CSS怎么做？（-webkit-font-smoothing: antialiased;）
-38. font-style属性可以让它赋值为“oblique” oblique是什么意思？
-39. position:fixed;在android下无效怎么处理？
-40. 如果需要手动写动画，你认为最小时间间隔是多久，为什么？（阿里）
-41. display:inline-block 什么时候会显示间隙？(携程)
-42. overflow: scroll时不能平滑滚动的问题怎么处理？
-43. 有一个高度自适应的div，里面有两个div，一个高度100px，希望另一个填满剩下的高度。
-44. png、jpg、gif 这些图片格式解释一下，分别什么时候用。
+28. [元素竖向的百分比设定是相对于容器的高度吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2328.md)
+29. [全屏滚动的原理是什么？用到了CSS的那些属性？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2329.md)
+30. [什么是响应式设计？响应式设计的基本原理是什么？如何兼容低版本的IE？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2330.md)
+31. [视差滚动效果，如何给每页做不同的动画？（回到顶部，向下滑动要再次出现，和只出现一次分别怎么做？）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2331.md)
+32. [::before 和 :after中双冒号和单冒号 有什么区别？解释一下这2个伪元素的作用。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2332.md)
+33. [如何修改chrome记住密码后自动填充表单的黄色背景 ？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2333.md)
+34. [你对line-height是如何理解的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2334.md)
+35. [设置元素浮动后，该元素的display值是多少？（自动变成display:block）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2335.md)
+36. [怎么让Chrome支持小于12px 的文字？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2336.md)
+37. [让页面里的字体变清晰，变细用CSS怎么做？（-webkit-font-smoothing: antialiased;）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2337.md)
+38. [font-style属性可以让它赋值为“oblique” oblique是什么意思？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2338.md)
+39. [position:fixed;在android下无效怎么处理？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2339.md)
+40. [如果需要手动写动画，你认为最小时间间隔是多久，为什么？（阿里）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2340.md)
+41. [display:inline-block 什么时候会显示间隙？(携程)](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2341.md)
+42. [overflow: scroll时不能平滑滚动的问题怎么处理？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2342.md)
+43. [有一个高度自适应的div，里面有两个div，一个高度100px，希望另一个填满剩下的高度。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2343.md)
+44. [png、jpg、gif 这些图片格式解释一下，分别什么时候用。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2344.md)
+45. [css属性overflow属性定义溢出元素内容区的内容会如何处理](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2345.md)
+46. [flash和js通过什么类如何交互?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2346.md)
+47. [元素的alt和title有什么异同？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2347.md)
 
 
 
 # JavaScript
-1. 介绍JavaScript的基本数据类型。
-2. 说说写JavaScript的基本规范？
+1. [介绍JavaScript的基本数据类型。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%231.md)
+2. [说说写JavaScript的基本规范？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%232.md)
 3. JavaScript原型，原型链 ? 有什么特点？
-4. JavaScript有几种类型的值？（堆：原始数据类型和 栈：引用数据类型），你能画一下他们的内存图吗？
-5. Javascript如何实现继承？
-6. Javascript创建对象的几种方式？
-7. Javascript作用链域?
-8. 谈谈This对象的理解。
-9. eval是做什么的？
-10. 什么是window对象? 什么是document对象?
-11. null，undefined的区别？
-12. 写一个通用的事件侦听器函数(机试题)。
-13. [“1”, “2”, “3”].map(parseInt) 答案是多少？
-14. 关于事件，IE与火狐的事件机制有什么区别？ 如何阻止冒泡？
-15. 什么是闭包（closure），为什么要用它？
-16. javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？
-17. 如何判断一个对象是否属于某个类？
-18. new操作符具体干了什么呢?
+4. [JavaScript有几种类型的值？（堆：原始数据类型和 栈：引用数据类型），你能画一下他们的内存图吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%233.md)
+5. [Javascript如何实现继承？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%235.md)
+6. [Javascript创建对象的几种方式？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%236.md)
+7. [Javascript作用链域?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%237.md)
+8. [谈谈This对象的理解。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%238.md)
+9. [eval是做什么的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%239.md)
+10. [什么是window对象? 什么是document对象?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2310.md)
+11. [null，undefined的区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2311.md)
+12. [写一个通用的事件侦听器函数(机试题,重点)。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2312.md)
+13. [[“1”, “2”, “3”].map(parseInt) 答案是多少？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2313.md)
+14. [关于事件，IE与火狐的事件机制有什么区别？ 如何阻止冒泡？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2314.md)
+15. [什么是闭包（closure），为什么要用它？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2315.md)
+16. [javascript 代码中的”use strict”;是什么意思 ? 使用它区别是什么？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2316.md)
+17. [如何判断一个对象是否属于某个类？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2317.md)
+18. [new操作符具体干了什么呢?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2318.md)
 19. 用原生JavaScript的实现过什么功能吗？
-20. Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？
-21. 对JSON的了解？
-21. [].forEach.call($$("*"),function(a){ a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16) }) 能解释一下这段代码的意思吗？
-22. js延迟加载的方式有哪些？
-23. Ajax 是什么? 如何创建一个Ajax？
-24. 同步和异步的区别?
-25. 如何解决跨域问题?
-26. 页面编码和被请求的资源编码如果不一致如何处理？模块化开发怎么做？
-27. AMD（Modules/Asynchronous-Definition）、CMD（Common Module Definition）规范区别？
+20. [Javascript中，有一个函数，执行时对象查找时，永远不会去查找原型，这个函数是？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2320.md)
+21. [对JSON的了解？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2321.md)
+22. [js延迟加载的方式有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2322.md)
+23. [Ajax 是什么? 如何创建一个Ajax？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2323.md)
+24. [同步和异步的区别?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2324.md)
+25. [如何解决跨域问题?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2325.md)
+26. [页面编码和被请求的资源编码如果不一致如何处理？模块化开发怎么做？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2326.md)
+27.[ 模块化总结 AMD（Modules/Asynchronous-Definition）、CMD（Common Module Definition）规范区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2327.md)
 28. requireJS的核心原理是什么？（如何动态加载的？如何避免多次加载的？如何 缓存的？）
 29. 让你自己设计实现一个requireJS，你会怎么做？
 30. 谈一谈你对ECMAScript6的了解？ECMAScript6 怎么写class么，为什么会出现class这种东西?
@@ -153,7 +155,7 @@
 73. 用js实现千位分隔符?(来源：前端农民工，提示：正则+replace)检测浏览器版本版本有哪些方式？
 74. 我们给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，你来说下会执行几次事件，然后会先执行冒泡还是捕获
 75. 列举IE与其他浏览器不一样的特性？
-
+76. [[].forEach.call($$("*"),function(a){ a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16) }) 能解释一下这段代码的意思吗？]()
 # 其他问题
 1. 前端性能优化
 2. http状态码
