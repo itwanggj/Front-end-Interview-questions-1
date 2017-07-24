@@ -170,7 +170,7 @@
 11. 说说最近最流行的一些东西吧？常去哪些网站？
 12. 是否了解开源的工具 bower、npm、yeoman、grunt、gulp，一个 npm 的包里的 package.json 具备的必要的字段都有哪些？（名称、版本号，依赖）
 13. 每个模块的代码结构都应该比较简单，且每个模块之间的关系也应该非常清晰，随着功能和迭代次数越来越多，你会如何去保持这个状态的？
-14. [Git知道branch, diff, merge么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
+14. [Git知道branch, diff, merge么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2314.md)
 15. 最近在学什么？能谈谈你未来3，5年给自己的规划吗？
 16. [知道什么是SEO并且怎么优化么? 知道各种meta data的含义么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2316.md)
 17. 介绍一个你最得意的作品吧？
