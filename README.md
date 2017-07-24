@@ -1,4 +1,3 @@
-www
 # HTML
 1. [Doctype作用？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%231.md)
 2. [严格模式与混杂模式如何区分？它们有何意义?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Html/%232.md)
@@ -82,7 +81,7 @@ www
 # JavaScript
 1. [介绍JavaScript的基本数据类型。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%231.md)
 2. [说说写JavaScript的基本规范？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%232.md)
-3. JavaScript原型，原型链 ? 有什么特点？
+3. [JavaScript原型，原型链 ? 有什么特点？]()
 4. [JavaScript有几种类型的值？（堆：原始数据类型和 栈：引用数据类型），你能画一下他们的内存图吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%233.md)
 5. [Javascript如何实现继承？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%235.md)
 6. [Javascript创建对象的几种方式？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%236.md)
@@ -107,18 +106,18 @@ www
 25. [如何解决跨域问题?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2325.md)
 26. [页面编码和被请求的资源编码如果不一致如何处理？模块化开发怎么做？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2326.md)
 27.[ 模块化总结 AMD（Modules/Asynchronous-Definition）、CMD（Common Module Definition）规范区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2327.md)
-28. requireJS的核心原理是什么？（如何动态加载的？如何避免多次加载的？如何 缓存的？）
+28. [列举IE与其他浏览器不一样的特性？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2328.md)
 29. 让你自己设计实现一个requireJS，你会怎么做？
-30. 谈一谈你对ECMAScript6的了解？ECMAScript6 怎么写class么，为什么会出现class这种东西?
-31. 异步加载的方式有哪些？
-32. documen.write和 innerHTML的区别?
-33. DOM操作——怎样添加、移除、移动、复制、创建和查找节点?
-34. .call() 和 .apply() 的含义和区别？
-35. 数组和对象有哪些原生方法，列举一下？
-36. JS 怎么实现一个类。怎么实例化这个类
-37. JavaScript中的作用域与变量声明提升？
-38. 如何编写高性能的Javascript？
-39. 那些操作会造成内存泄漏？
+30. [ 谈一谈你对ECMAScript6的了解？ECMAScript6 怎么写class么，为什么会出现class这种东西?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2330.md)
+31. [异步加载的方式有哪些？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2331.md)
+32. [documen.write和 innerHTML的区别?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2332.md)
+33. [DOM操作——怎样添加、移除、移动、复制、创建和查找节点?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2333.md)
+34. [.call() 和 .apply() 的含义和区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2334.md)
+35. [数组和对象有哪些原生方法，列举一下？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2335.md)
+36. [JS 怎么实现一个类。怎么实例化这个类](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2336.md)
+37. [JavaScript中的作用域与变量声明提升？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2337.md)
+38. [如何编写高性能的Javascript？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2338.md)
+39. [那些操作会造成内存泄漏？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2339.md)
 40. JQuery的源码看过吗？能不能简单概况一下它的实现原理？
 41. jQuery.fn的init方法返回的this指的是什么对象？为什么要返回this？
 42. jquery中如何将数组转化为json字符串，然后再转化回来？
@@ -130,54 +129,55 @@ www
 48. 是否知道自定义事件。jQuery里的fire函数是什么意思，什么时候用？
 49. jQuery 是通过哪个方法和 Sizzle 选择器结合的？（jQuery.fn.find()进入Sizzle）
 50. 针对 jQuery性能的优化方法？
-51. Jquery与jQuery UI有啥区别？
+51. [Jquery与jQuery UI 有啥区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2351.md)
 52. JQuery的源码看过吗？能不能简单说一下它的实现原理？
-53. jquery 中如何将数组转化为json字符串，然后再转化回来？
+53. [jquery 中如何将数组转化为json字符串，然后再转化回来？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2353.md)
 54. jQuery和Zepto的区别？各自的使用场景？
 55. 针对 jQuery 的优化方法？Zepto的点透问题如何解决？
 56. jQueryUI如何自定义组件?需求：实现一个页面操作不会整页刷新的网站，并且能在浏览器前进、后退时正确响应。给出你的技术实现方案？如何判断当前脚本运行在浏览器还是node环境中？（阿里）
 57. 移动端最小触控区域是多大？
 58. jQuery 的 slideUp动画 ，如果目标元素是被外部事件驱动, 当鼠标快速地连续触发外部元素事件, 动画会滞后的反复执行，该如何处理呢?
-59. 把 Script 标签 放在页面的最底部的body封闭之前 和封闭之后有什么区别？浏览器会如何解析它们？
-60. 移动端的点击事件的有延迟，时间是多久，为什么会有？ 怎么解决这个延时？（click 有 300ms 延迟,为了实现safari的双击事件的设计，浏览器要知道你是不是要双击操作。）
-61. 知道各种JS框架(Angular, Backbone, Ember, React, Meteor, Knockout…)么? 能讲出他们各自的优点和缺点么?
-62. Underscore 对哪些 JS 原生对象进行了扩展以及提供了哪些好用的函数方法？
-63. 解释JavaScript中的作用域与变量声明提升？那些操作会造成内存泄漏？
-64. JQuery一个对象可以同时绑定多个事件，这是如何实现的？
-65. Node.js的适用场景？(如果会用node)
+59. [把 Script 标签 放在页面的最底部的body封闭之前 和封闭之后有什么区别？浏览器会如何解析它们？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2359.md)
+60. [移动端的点击事件的有延迟，时间是多久，为什么会有？ 怎么解决这个延时？（click 有 300ms 延迟,为了实现safari的双击事件的设计，浏览器要知道你是不是要双击操作。）](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2360.md)
+61. [知道各种JS框架(Angular, Backbone, vue, React, Meteor, Knockout…)么? 能讲出他们各自的优点和缺点么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2361.md)
+62. [Underscore 对哪些 JS 原生对象进行了扩展以及提供了哪些好用的函数方法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2362.md)
+63. [我们给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，你来说下会执行几次事件，然后会先执行冒泡还是捕获](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2363.md)
+64. [Node.js的适用场景？(如果会用node)](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2364.md)
+65. [JQuery一个对象可以同时绑定多个事件，这是如何实现的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2365.md)
 66. 知道route, middleware, cluster, nodemon, pm2, server-side rendering么?
-67. 解释一下 Backbone 的 MVC 实现方式？
-68. 什么是“前端路由”?什么时候适合使用“前端路由”? “前端路由”有哪些优点和缺点?
-69. 知道什么是webkit么? 知道怎么用浏览器的各种工具来调试和debug代码么?
-70. 如何测试前端代码么? 知道BDD, TDD, Unit Test么? 知道怎么测试你的前端工程么(mocha, sinon, jasmin, qUnit..)?
-71. 前端templating(Mustache, underscore, handlebars)是干嘛的, 怎么用?简述一下 Handlebars 的基本用法？
-72. 简述一下 Handlerbars 的对模板的基本处理流程， 如何编译的？如何缓存的？
-73. 用js实现千位分隔符?(来源：前端农民工，提示：正则+replace)检测浏览器版本版本有哪些方式？
-74. 我们给一个dom同时绑定两个点击事件，一个用捕获，一个用冒泡，你来说下会执行几次事件，然后会先执行冒泡还是捕获
-75. 列举IE与其他浏览器不一样的特性？
-76. [[].forEach.call($$("*"),function(a){ a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16) }) 能解释一下这段代码的意思吗？]()
+67. [解释一下 Backbone 的 MVC 实现方式？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2367.md)
+68. [什么是“前端路由”?什么时候适合使用“前端路由”? “前端路由”有哪些优点和缺点?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2368.md)
+69. [知道什么是webkit么? 知道怎么用浏览器的各种工具来调试和debug代码么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2369.md)
+70. [如何测试前端代码么? 知道BDD, TDD, Unit Test么? 知道怎么测试你的前端工程么(mocha, sinon, jasmin, qUnit..)?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2370.md)
+71. [前端templating(Mustache, underscore, handlebars)是干嘛的, 怎么用?简述一下 Handlebars 的基本用法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2371.md)
+72. [简述一下 Handlerbars 的对模板的基本处理流程， 如何编译的？如何缓存的？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2372.md)
+73. [用js实现千位分隔符?(来源：前端农民工，提示：正则+replace)检测浏览器版本版本有哪些方式？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2373.md)
+74. [].forEach.call($$("*"),function(a){ a.style.outline="1px solid #"+(~~(Math.random()*(1<<24))).toString(16) }) 能解释一下这段代码的意思吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2374.md)
+75. [实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2375.md)
+76. [原生JS的window.onload与Jquery的$(document).ready(function(){})有什么不同？如何用原生JS实现Jq的ready方法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2376.md)
+77. [分别阐述split(),slice(),splice(),join()？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2377.md)
 # 其他问题
-1. 前端性能优化
-2. http状态码
-3. 一个页面从输入 URL 到页面加载显示完成，这个过程中都发生了什么？
+1. [前端性能优化](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
+2. [http状态码](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%232.md)
+3. [一个页面从输入 URL 到页面加载显示完成，这个过程中都发生了什么？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%233.md)
 4. 部分地区用户反应网站很卡，请问有哪些可能性的原因，以及解决方法？
 5. 从打开app到刷新出内容，整个过程中都发生了什么，如果感觉慢，怎么定位问题，怎么解决?
 6. 除了前端以外还了解什么其它技术么？你最最厉害的技能是什么？
 7. 对前端界面工程师这个职位是怎么样理解的？它的前景会怎么样？
-8. 你怎么看待Web App 、hybrid App、Native App？
-9. 你移动端前端开发的理解？（和 Web 前端开发的主要区别是什么？）
-10. 平时如何管理你的项目？
+8. [你怎么看待Web App 、hybrid App、Native App？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%238.md)
+9. [你移动端前端开发的理解？（和 Web 前端开发的主要区别是什么？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%239.md)
+10. [平时如何管理你的项目？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2310.md)
 11. 说说最近最流行的一些东西吧？常去哪些网站？
 12. 是否了解开源的工具 bower、npm、yeoman、grunt、gulp，一个 npm 的包里的 package.json 具备的必要的字段都有哪些？（名称、版本号，依赖）
 13. 每个模块的代码结构都应该比较简单，且每个模块之间的关系也应该非常清晰，随着功能和迭代次数越来越多，你会如何去保持这个状态的？
-14. Git知道branch, diff, merge么?
-15. 说说最近最流行的一些东西吧？平时常去哪些网站？
-16. 知道什么是SEO并且怎么优化么? 知道各种meta data的含义么?
+14. [Git知道branch, diff, merge么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
+15. 最近在学什么？能谈谈你未来3，5年给自己的规划吗？
+16. [知道什么是SEO并且怎么优化么? 知道各种meta data的含义么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2316.md)
 17. 介绍一个你最得意的作品吧？
 18. 你有自己的技术博客吗，用了哪些技术？
-19. 是否了解Web注入攻击，说下原理，最常见的两种攻击（XSS 和 CSRF）了解到什么程度？
-20. 最近在学什么东西？
-21. 最近在学什么？能谈谈你未来3，5年给自己的规划吗？
+19. [是否了解Web注入攻击，说下原理，最常见的两种攻击（XSS 和 CSRF）了解到什么程度？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2319.md)
+
+
 
 本文部分来自
 作者：徐尤熙
