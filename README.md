@@ -75,6 +75,9 @@
 45. [css属性overflow属性定义溢出元素内容区的内容会如何处理](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2345.md)
 46. [flash和js通过什么类如何交互?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2346.md)
 47. [元素的alt和title有什么异同？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2347.md)
+48. [css样式对于ie和火狐兼容性写法1](http://www.2cto.com/kf/201510/446747.html)
+49. [IE浏览器兼容问题](http://www.cnblogs.com/qiujianmei/p/7192481.html)
+50. [IE6常见兼容性问题](http://www.cnblogs.com/qiujianmei/p/7196898.html)
 
 
 
@@ -170,12 +173,14 @@
 11. 说说最近最流行的一些东西吧？常去哪些网站？
 12. 是否了解开源的工具 bower、npm、yeoman、grunt、gulp，一个 npm 的包里的 package.json 具备的必要的字段都有哪些？（名称、版本号，依赖）
 13. 每个模块的代码结构都应该比较简单，且每个模块之间的关系也应该非常清晰，随着功能和迭代次数越来越多，你会如何去保持这个状态的？
-14. [Git知道branch, diff, merge么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2314.md)
+14. [Git知道branch, diff, merge么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
 15. 最近在学什么？能谈谈你未来3，5年给自己的规划吗？
 16. [知道什么是SEO并且怎么优化么? 知道各种meta data的含义么?](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2316.md)
 17. 介绍一个你最得意的作品吧？
 18. 你有自己的技术博客吗，用了哪些技术？
 19. [是否了解Web注入攻击，说下原理，最常见的两种攻击（XSS 和 CSRF）了解到什么程度？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2319.md)
+20. [IP、TCP和DNS与HTTP的密切关系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2320.md)
+21. [Http协议详解](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2321.md)
 
 
 
