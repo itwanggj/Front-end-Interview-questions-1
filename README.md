@@ -159,6 +159,7 @@
 75. [实现一个函数clone，可以对JavaScript中的5种主要的数据类型（包括Number、String、Object、Array、Boolean）进行值复制](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2375.md)
 76. [原生JS的window.onload与Jquery的$(document).ready(function(){})有什么不同？如何用原生JS实现Jq的ready方法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2376.md)
 77. [分别阐述split(),slice(),splice(),join()？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2377.md)
+78. [Javascript异步编程](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2378.md)
 # 其他问题
 1. [前端性能优化](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
 2. [http状态码](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%232.md)
@@ -181,6 +182,8 @@
 19. [是否了解Web注入攻击，说下原理，最常见的两种攻击（XSS 和 CSRF）了解到什么程度？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2319.md)
 20. [IP、TCP和DNS与HTTP的密切关系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2320.md)
 21. [Http协议详解](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2321.md)
+23. [排序算法](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2323.md)
+
 
 
 
