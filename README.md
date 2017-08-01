@@ -78,6 +78,10 @@
 48. [css样式对于ie和火狐兼容性写法1](http://www.2cto.com/kf/201510/446747.html)
 49. [IE浏览器兼容问题](http://www.cnblogs.com/qiujianmei/p/7192481.html)
 50. [IE6常见兼容性问题](http://www.cnblogs.com/qiujianmei/p/7196898.html)
+51. [`<img>`的`title`和`alt`有什么区别](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2351.md)
+52. [CSS选择器有哪些](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2352.md)
+53. [css hack原理及常用hack](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2353.md)
+54. [页面的重绘和重排](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2354.md)
 
 
 
@@ -160,6 +164,22 @@
 76. [原生JS的window.onload与Jquery的$(document).ready(function(){})有什么不同？如何用原生JS实现Jq的ready方法？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2376.md)
 77. [分别阐述split(),slice(),splice(),join()？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2377.md)
 78. [Javascript异步编程](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2378.md)
+79. [DOM元素e的e.getAttribute(propName)和e.propName有什么区别和联系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2379.md)
+80. [XMLHttpRequest通用属性和方法](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2380.md)
+81. [focus/blur与focusin/focusout的区别与联系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2381.md)
+82. [mouseover/mouseout与mouseenter/mouseleave的区别与联系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2382.md)
+83. [===运算符判断相等的流程是怎样的](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2383.md)
+84. [==运算符判断相等的流程是怎样的](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2384.md)
+85. [函数内部arguments变量有哪些特性,有哪些属性,如何将它转换为数组](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2385.md)
+86. [ 评价一下三种方法实现继承的优缺点,并改进](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2386.md)
+87. [编写javascript深度克隆函数deepClone](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2387.md)
+88. [如何判断一个对象](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2388.md)
+89. [编写一个函数将列表子元素顺序反转](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2389.md)
+90. [javascript-定时器](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2390.md)
+91. [延时加载](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2391.md)
+92. [冒泡捕获](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2392.md)
+93. [加载JS文件之后执行回调函数](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2393.md)
+94. [手写ajax](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%2394.md)
 # 其他问题
 1. [前端性能优化](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%231.md)
 2. [http状态码](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%232.md)
@@ -183,6 +203,9 @@
 20. [IP、TCP和DNS与HTTP的密切关系](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2320.md)
 21. [Http协议详解](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2321.md)
 23. [排序算法](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2323.md)
+24. [常见排序算法的时间复杂度,空间复杂度](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2324.md)
+25. [前端需要注意哪些SEO](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2325.md)
+26. [HTTP method](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/another/%2326.md)
 
 
 
