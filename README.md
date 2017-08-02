@@ -44,7 +44,7 @@
 14. [absolute的containing block计算方式跟正常流有什么不同？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2314.md)
 15. [ CSS里的visibility属性有个collapse属性值是干嘛用的？在不同浏览器下以后什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2315.md)
 16. [position跟display、margin collapse、overflow、float这些特性相互叠加后会怎么样？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2316.md)
-17. [对BFC规范(块级格式化上下文：block formatting context)的理解？]()
+17. [对BFC规范(块级格式化上下文：block formatting context)的理解？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2317.md)
 18. [有没有了解过webp？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2318.md)
 19. [style标签写在body后与body前有什么区别？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2319.md)
 20. [请解释一下为什么会出现浮动和什么时候需要清除浮动？清除浮动的方式](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Css/%2320.md)
@@ -88,7 +88,7 @@
 # JavaScript
 1. [介绍JavaScript的基本数据类型。](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%231.md)
 2. [说说写JavaScript的基本规范？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%232.md)
-3. [JavaScript原型，原型链 ? 有什么特点？]()
+3. [JavaScript原型，原型链 ? 有什么特点？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%233.md)
 4. [JavaScript有几种类型的值？（堆：原始数据类型和 栈：引用数据类型），你能画一下他们的内存图吗？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%233.md)
 5. [Javascript如何实现继承？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%235.md)
 6. [Javascript创建对象的几种方式？](https://github.com/cwjie0229/Front-end-Interview-questions/blob/master/case/Js/%236.md)
